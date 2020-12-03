@@ -1,5 +1,5 @@
 #
-# White-listed USB Devices of QNAP NAS TBS-453DX with QTS 4.5.1
+# White-listed USB Devices of QTS 4.5.1 (20201108)
 #
 # Created on 20-12-03 09:10
 #

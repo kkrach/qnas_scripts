@@ -1,6 +1,6 @@
 #!/bin/bash -ue
 #
-# This script extracts the whitelisted USB devices from the QNAP nas 
+# This script extracts the whitelisted USB devices from the QNAP NAS
 #
 #
 
