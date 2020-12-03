@@ -1,0 +1,301 @@
+# taken from https://wiki.debian.org/rt2800usb
+0411:00E8 BUFFALO INC. (formerly MelCo., Inc.) WLI-UC-G300N Wireless LAN Adapter [Ralink RT2870]
+0411:0158 BUFFALO INC. (formerly MelCo., Inc.) WLI-UC-GNHP Wireless LAN Adapter
+0411:015D BUFFALO INC. (formerly MelCo., Inc.) WLI-UC-GN Wireless LAN Adapter [Ralink RT3070]
+0411:016F BUFFALO INC. (formerly MelCo., Inc.) WLI-UC-G301N Wireless LAN Adapter [Ralink RT3072]
+0411:01A2 BUFFALO INC. (formerly MelCo., Inc.) WLI-UC-GNM Wireless LAN Adapter [Ralink RT8070]
+0411:01EE BUFFALO INC. (formerly MelCo., Inc.) WLI-UC-GNM2 Wireless LAN Adapter [Ralink RT3070]
+043E:7A12 LG Electronics USA, Inc. (Device name unknown)
+043E:7A13 LG Electronics USA, Inc. (Device name unknown)
+043E:7A22 LG Electronics USA, Inc. (Device name unknown)
+043E:7A32 LG Electronics USA, Inc. (Device name unknown)
+043E:7A42 LG Electronics USA, Inc. (Device name unknown)
+0471:200F Philips (or NXP) 802.11n Wireless Adapter
+0471:20DD Philips (or NXP) (Device name unknown)
+0471:2104 Philips (or NXP) (Device name unknown)
+0471:2126 Philips (or NXP) (Device name unknown)
+0471:2180 Philips (or NXP) (Device name unknown)
+0471:2181 Philips (or NXP) (Device name unknown)
+0471:2182 Philips (or NXP) (Device name unknown)
+04BB:0944 I-O Data Device, Inc. WHG-AGDN/US Wireless LAN Adapter
+04BB:0945 I-O Data Device, Inc. WN-GDN/US3 Wireless LAN Adapter
+04BB:0947 I-O Data Device, Inc. WN-G150U Wireless LAN Adapter
+04BB:0948 I-O Data Device, Inc. WN-G300U Wireless LAN Adapter
+04BB:094E I-O Data Device, Inc. (Device name unknown)
+04DA:1800 Panasonic (Matsushita) DY-WL10 802.11abgn Adapter [Broadcom BCM4323]
+04DA:1801 Panasonic (Matsushita) (Device name unknown)
+04DA:23F6 Panasonic (Matsushita) (Device name unknown)
+04E8:2018 Samsung Electronics Co., Ltd WIS09ABGN LinkStick Wireless LAN Adapter
+050D:1103 Belkin Components F9L1103 N750 DB 802.11abgn 2x3:3 [Ralink RT3573]
+050D:8053 Belkin Components F5D8053 N Wireless USB Adapter v1000/v4000 [Ralink RT2870]
+050D:805C Belkin Components F5D8053 N Wireless Adapter v3000 [Ralink RT2870]
+050D:815C Belkin Components F5D8053 N Wireless USB Adapter v3000 [Ralink RT2870]
+050D:825A Belkin Components F5D8055 N+ Wireless Adapter v1000 [Ralink RT2870]
+050D:825B Belkin Components F5D8055 N+ Wireless Adapter v2000 [Ralink RT3072]
+050D:935A Belkin Components F6D4050 N150 Enhanced Wireless Network Adapter v1000 [Ralink RT3070]
+050D:935B Belkin Components F6D4050 N150 Enhanced Wireless Network Adapter v2000 [Ralink RT3070]
+050D:945B Belkin Components F7D1101 v2 Basic Wireless Adapter [Ralink RT3370]
+057C:8501 AVM GmbH (Device name unknown)
+0586:3416 ZyXEL Communications Corp. NWD-210N 802.11b/g/n-draft wireless adapter
+0586:3418 ZyXEL Communications Corp. NWD211AN 802.11abgn Wireless Adapter [Ralink RT2870]
+0586:341A ZyXEL Communications Corp. NWD-270N Wireless N-lite USB Adapter
+0586:341E ZyXEL Communications Corp. NWD2105 802.11bgn Wireless Adapter [Ralink RT3070]
+0586:3421 ZyXEL Communications Corp. (Device name unknown)
+0586:343E ZyXEL Communications Corp. N220 802.11bgn Wireless Adapter
+0789:0162 Logitec Corp. LAN-WN22/U2 Wireless LAN Adapter
+0789:0163 Logitec Corp. LAN-WN12/U2 Wireless LAN Adapter
+0789:0164 Logitec Corp. LAN-W150/U2M Wireless LAN Adapter
+0789:0166 Logitec Corp. LAN-W300N/U2 Wireless LAN Adapter
+0789:016B Logitec Corp. (Device name unknown)
+0789:0170 Logitec Corp. LAN-W300AN/U2 Wireless LAN Adapter
+07AA:002F Corega K.K. CG-WLUSB2GNL
+07AA:003C Corega K.K. CG-WLUSB2GNL
+07AA:003F Corega K.K. CG-WLUSB300AGN
+07B8:2770 AboCom Systems Inc 802.11n/b/g Mini Wireless LAN USB2.0 Adapter
+07B8:2870 AboCom Systems Inc 802.11n/b/g Wireless LAN USB2.0 Adapter
+07B8:3070 AboCom Systems Inc 802.11n/b/g Mini Wireless LAN USB2.0 Adapter
+07B8:3071 AboCom Systems Inc 802.11n/b/g Mini Wireless LAN USB2.0 Adapter
+07B8:3072 AboCom Systems Inc 802.11n/b/g Mini Wireless LAN USB2.0 Adapter
+07D1:3C09 D-Link System DWA-140 RangeBooster N Adapter(rev.B1) [Ralink RT2870]
+07D1:3C0A D-Link System DWA-140 RangeBooster N Adapter(rev.B2) [Ralink RT3072]
+07D1:3C0D D-Link System DWA-125 Wireless N 150 Adapter(rev.A1) [Ralink RT3070]
+07D1:3C0E D-Link System WUA-2340 RangeBooster G Adapter(rev.B) [Ralink RT2070]
+07D1:3C0F D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.E1) [Ralink RT2070]
+07D1:3C11 D-Link System DWA-160 Xtreme N Dual Band USB Adapter(rev.B) [Ralink RT2870]
+07D1:3C13 D-Link System DWA-130 802.11n Wireless N Adapter(rev.B) [Ralink RT2870]
+07D1:3C15 D-Link System DWA-140 RangeBooster N Adapter(rev.B3) [Ralink RT2870]
+07D1:3C16 D-Link System DWA-125 Wireless N 150 Adapter(rev.A2) [Ralink RT3070]
+07D1:3C17 D-Link System (Device name unknown)
+07FA:7712 DrayTek Corp. (Device name unknown)
+083A:6618 Accton Technology Corp. 802.11n Wireless Adapter
+083A:7511 Accton Technology Corp. Arcadyan 802.11N Wireless Adapter
+083A:7512 Accton Technology Corp. Arcadyan 802.11N Wireless Adapter
+083A:7522 Accton Technology Corp. Arcadyan 802.11N Wireless Adapter
+083A:8522 Accton Technology Corp. Arcadyan 802.11N Wireless Adapter
+083A:A618 Accton Technology Corp. SMCWUSBS-N EZ Connect N Draft 11n Wireless Adapter [Ralink RT2870]
+083A:A701 Accton Technology Corp. SMCWUSBS-N3 EZ Connect N Wireless Adapter [Ralink RT3070]
+083A:A702 Accton Technology Corp. (Device name unknown)
+083A:A703 Accton Technology Corp. (Device name unknown)
+083A:B511 Accton Technology Corp. (Device name unknown)
+083A:B522 Accton Technology Corp. SMCWUSBS-N2 EZ Connect N Wireless Adapter [Ralink RT2870]
+0846:9012 NetGear, Inc. WNDA4100 802.11abgn 3x3:3 [Ralink RT3573]
+0846:9013 NetGear, Inc. (Device name unknown)
+0846:9019 NetGear, Inc. (Device name unknown)
+0930:0A07 Toshiba Corp. WLM-10U1 802.11abgn Wireless Adapter [Ralink RT3572]
+0B05:1731 ASUSTek Computer, Inc. 802.11n Network Adapter
+0B05:1732 ASUSTek Computer, Inc. 802.11n Network Adapter
+0B05:1742 ASUSTek Computer, Inc. 802.11n Network Adapter
+0B05:1784 ASUSTek Computer, Inc. USB-N13 802.11n Network Adapter (rev. A1) [Ralink RT3072]
+0B05:179D ASUSTek Computer, Inc. USB-N53 802.11abgn Network Adapter [Ralink RT3572]
+0B05:17AD ASUSTek Computer, Inc. (Device name unknown)
+0B05:17BC ASUSTek Computer, Inc. (Device name unknown)
+0B05:17E8 ASUSTek Computer, Inc. (Device name unknown)
+0CDE:0022 Z-Com 802.11b/g/n Wireless Network Adapter
+0CDE:0025 Z-Com 802.11b/g/n USB Wireless Network Adapter
+0DB0:3820 Micro Star International (Device name unknown)
+0DB0:3821 Micro Star International (Device name unknown)
+0DB0:3822 Micro Star International (Device name unknown)
+0DB0:3870 Micro Star International (Device name unknown)
+0DB0:3871 Micro Star International (Device name unknown)
+0DB0:6899 Micro Star International 802.11bgn 1T1R Mini Card Wireless Adapter
+0DB0:821A Micro Star International (Device name unknown)
+0DB0:822A Micro Star International (Device name unknown)
+0DB0:822B Micro Star International (Device name unknown)
+0DB0:822C Micro Star International (Device name unknown)
+0DB0:870A Micro Star International (Device name unknown)
+0DB0:871A Micro Star International (Device name unknown)
+0DB0:871B Micro Star International (Device name unknown)
+0DB0:871C Micro Star International (Device name unknown)
+0DB0:899A Micro Star International (Device name unknown)
+0DF6:0017 Sitecom Europe B.V. WL-182 Wireless-N Network USB Card
+0DF6:002B Sitecom Europe B.V. WL-188 Wireless Network 300N USB Adapter
+0DF6:002C Sitecom Europe B.V. WL-301 Wireless Network 300N USB Adapter
+0DF6:002D Sitecom Europe B.V. WL-302 Wireless Network 300N USB dongle
+0DF6:0039 Sitecom Europe B.V. WL-315 Wireless-N USB Adapter
+0DF6:003B Sitecom Europe B.V. WL-321 Wireless USB Gaming Adapter 300N
+0DF6:003D Sitecom Europe B.V. WL-324 Wireless USB Adapter 300N
+0DF6:003E Sitecom Europe B.V. WL-343 Wireless USB Adapter 150N X1
+0DF6:003F Sitecom Europe B.V. WL-608 Wireless USB Adapter 54g
+0DF6:0040 Sitecom Europe B.V. WL-344 Wireless Adapter 300N X2 [Ralink RT3071]
+0DF6:0041 Sitecom Europe B.V. WL-329 Wireless Dualband USB adapter 300N
+0DF6:0042 Sitecom Europe B.V. WL-345 Wireless USB adapter 300N X3
+0DF6:0047 Sitecom Europe B.V. WL-352v1 Wireless USB Adapter 300N 002
+0DF6:0048 Sitecom Europe B.V. WL-349v1 Wireless Adapter 150N 002 [Ralink RT3070]
+0DF6:0050 Sitecom Europe B.V. WL-349v4 Wireless Micro Adapter 150N X1 [Ralink RT3370]
+0DF6:0051 Sitecom Europe B.V. (Device name unknown)
+0DF6:005F Sitecom Europe B.V. (Device name unknown)
+0DF6:0060 Sitecom Europe B.V. WLA-4000 802.11bgn [Ralink RT3072]
+0DF6:0062 Sitecom Europe B.V. WLA-5000 802.11abgn [Ralink RT3572]
+0DF6:0065 Sitecom Europe B.V. (Device name unknown)
+0DF6:0066 Sitecom Europe B.V. (Device name unknown)
+0DF6:0067 Sitecom Europe B.V. (Device name unknown)
+0DF6:0068 Sitecom Europe B.V. (Device name unknown)
+0DF6:006A Sitecom Europe B.V. (Device name unknown)
+0DF6:006E Sitecom Europe B.V. (Device name unknown)
+0E66:0001 Hawking Technologies HWUN1 Hi-Gain Wireless-300N Adapter w/ Upgradable Antenna [Ralink RT2870]
+0E66:0003 Hawking Technologies HWDN1 Hi-Gain Wireless-300N Dish Adapter [Ralink RT2870]
+0E66:0009 Hawking Technologies HWUN2 Hi-Gain Wireless-150N Adapter w/ Upgradable Antenna [Ralink RT2770]
+0E66:000B Hawking Technologies HWDN2 Hi-Gain Wireless-150N Dish Adapter [Ralink RT2770]
+0E66:0013 Hawking Technologies HWUN3 Hi-Gain Wireless-N Adapter [Ralink RT3070]
+0E66:0017 Hawking Technologies HAWNU1 Hi-Gain Wireless-150N Network Adapter with Range Amplifier [Ralink RT3070]
+0E66:0018 Hawking Technologies Wireless-N Network Adapter [Ralink RT2870]
+0E66:0020 Hawking Technologies (Device name unknown)
+0E66:0021 Hawking Technologies (Device name unknown)
+0FE9:B307 DVICO (Device name unknown)
+100D:9031 Netopia, Inc. Motorola 802.11n Dualband USB Wireless Adapter
+1044:800B Chu Yuen Enterprise Co., Ltd GN-WB30N 802.11n WLAN Card
+1044:800D Chu Yuen Enterprise Co., Ltd GN-WB32L 802.11n USB WLAN Card
+129B:1828 CyberTAN Technology Gigaset USB Adapter 300
+13B1:002F Linksys AE1000 v1 802.11n [Ralink RT3572]
+13B1:0031 Linksys AM10 v1 802.11n [Ralink RT3072]
+13B1:003B Linksys AE3000 802.11abgn (3x3) Wireless Adapter [Ralink RT3573]
+13D3:3247 IMC Networks 802.11 n/g/b Wireless LAN Adapter
+13D3:3273 IMC Networks 802.11 n/g/b Wireless LAN USB Mini-Card
+13D3:3305 IMC Networks (Device name unknown)
+13D3:3307 IMC Networks (Device name unknown)
+13D3:3321 IMC Networks (Device name unknown)
+13D3:3329 IMC Networks (Device name unknown)
+13D3:3365 IMC Networks (Device name unknown)
+1482:3C09 Vaillant (Device name unknown)
+148F:2070 Ralink Technology, Corp. RT2070 Wireless Adapter
+148F:2770 Ralink Technology, Corp. RT2770 Wireless Adapter
+148F:2870 Ralink Technology, Corp. RT2870 Wireless Adapter
+148F:3070 Ralink Technology, Corp. RT2870/RT3070 Wireless Adapter
+148F:3071 Ralink Technology, Corp. RT3071 Wireless Adapter
+148F:3072 Ralink Technology, Corp. RT3072 Wireless Adapter
+148F:3370 Ralink Technology, Corp. RT3370 Wireless Adapter
+148F:3572 Ralink Technology, Corp. RT3572 Wireless Adapter
+148F:3573 Ralink Technology, Corp. RT3573 Wireless Adapter
+148F:5370 Ralink Technology, Corp. RT5370 Wireless Adapter
+148F:5372 Ralink Technology, Corp. RT5372 Wireless Adapter
+148F:5572 Ralink Technology, Corp. RT5572 Wireless Adapter
+148F:8070 Ralink Technology, Corp. (Device name unknown)
+148F:F301 Ralink Technology, Corp. (Device name unknown)
+14B2:3C06 Ralink Technology, Corp. Conceptronic C300RU v1 802.11bgn Wireless Adapter [Ralink RT2870]
+14B2:3C07 Ralink Technology, Corp. 802.11n adapter
+14B2:3C09 Ralink Technology, Corp. 802.11n adapter
+14B2:3C12 Ralink Technology, Corp. (Device name unknown)
+14B2:3C23 Ralink Technology, Corp. Airlink101 AWLL6080 802.11bgn Wireless Adapter [Ralink RT2870]
+14B2:3C25 Ralink Technology, Corp. DrayTek Vigor N61 802.11bgn Wireless Adapter [Ralink RT2870]
+14B2:3C27 Ralink Technology, Corp. Airlink101 AWLL6070 802.11bgn Wireless Adapter [Ralink RT2770]
+14B2:3C28 Ralink Technology, Corp. Conceptronic C300RU v2 802.11bgn Wireless Adapter [Ralink RT2770]
+14B2:3C2C Ralink Technology, Corp. Keebox W150NU 802.11bgn Wireless Adapter [Ralink RT3070]
+157E:300E TRENDnet SMC SMCWUSB-N 802.11bgn 2x2:2 Wireless Adapter [Ralink RT2870]
+157E:3013 TRENDnet TEW-645UB 802.11bgn 1x2:2 Wireless Adapter [Ralink RT2770]
+15A9:0006 Gemtek Wireless 11n USB Adapter
+15A9:0012 Gemtek WUBR-208N 802.11abgn Wireless Adapter [Ralink RT2870]
+15C5:0008 Advance Multimedia Internet Technology Inc. (AMIT) WL532U 802.11g Adapter
+1690:0740 Askey Computer Corp. [hex] 802.11n Wireless LAN Card
+1690:0744 Askey Computer Corp. [hex] (Device name unknown)
+1690:0761 Askey Computer Corp. [hex] (Device name unknown)
+1690:0764 Askey Computer Corp. [hex] (Device name unknown)
+1737:0070 Linksys WUSB100 v1 RangePlus Wireless Network Adapter [Ralink RT2870]
+1737:0071 Linksys WUSB600N v1 Dual-Band Wireless-N Network Adapter [Ralink RT2870]
+1737:0077 Linksys WUSB54GC v3 802.11g Adapter [Ralink RT2070L]
+1737:0078 Linksys WUSB100 v2 RangePlus Wireless Network Adapter [Ralink RT3070]
+1737:0079 Linksys WUSB600N v2 Dual-Band Wireless-N Network Adapter [Ralink RT3572]
+1740:9701 Senao EnGenius 802.11n Wireless USB Adapter
+1740:9702 Senao EnGenius 802.11n Wireless USB Adapter
+1740:9703 Senao EnGenius 802.11n Wireless USB Adapter
+1740:9705 Senao EnGenius 802.11n Wireless USB Adapter
+1740:9706 Senao EUB9706 802.11n Wireless Adapter [Ralink RT3072]
+1740:9707 Senao (Device name unknown)
+1740:9708 Senao (Device name unknown)
+1740:9709 Senao (Device name unknown)
+1740:9801 Senao EUB9801 802.11abgn Wireless Adapter [Ralink RT3572]
+1761:0B05 ASUSTek Computer, Inc. (wrong ID) 802.11n Network Adapter (wrong ID - swapped vendor and device)
+177F:0153 Sweex LW153 802.11n Adapter [ralink rt3070]
+177F:0163 Sweex (Device name unknown)
+177F:0164 Sweex (Device name unknown)
+177F:0165 Sweex (Device name unknown)
+177F:0302 Sweex (Device name unknown)
+177F:0313 Sweex LW313 802.11n Adapter [ralink rt2770 + rt2720]
+177F:0323 Sweex (Device name unknown)
+177F:0324 Sweex (Device name unknown)
+18C5:0012 AMIT Technology, Inc. CG-WLUSB10 Corega Wireless USB Adapter
+1A32:0304 Quanta Microsystems, Inc. 802.11n Wireless LAN Card
+1B75:3071 Ovislink Corp. (Device name unknown)
+1B75:3072 Ovislink Corp. AirLive WN-360USB adapter
+1B75:7733 Ovislink Corp. (Device name unknown)
+1B75:A200 Ovislink Corp. AirLive WN-200USB wireless 11b/g/n dongle
+1D4D:0002 PEGATRON CORPORATION Ralink RT2770/2720 802.11b/g/n Wireless LAN Mini-USB Device
+1D4D:000C PEGATRON CORPORATION Ralink RT3070 802.11b/g/n Wireless Lan USB Device
+1D4D:000E PEGATRON CORPORATION Ralink RT3070 802.11b/g/n Wireless Lan USB Device
+1D4D:0011 PEGATRON CORPORATION (Device name unknown)
+1EDA:2012 AirTies Wireless Networks Air2210 54 Mbps Wireless Adapter
+1EDA:2210 AirTies Wireless Networks Air2210 54 Mbps Wireless Adapter
+1EDA:2310 AirTies Wireless Networks Air2310 150 Mbps Wireless Adapter
+2001:3317 D-Link Corp. (Device name unknown)
+2001:3C15 D-Link Corp. DWA-140 RangeBooster N Adapter(rev.B3) [Ralink RT5372]
+2001:3C17 D-Link Corp. DWA-123 Wireless N 150 Adapter(rev.A1) [Ralink RT3370]
+2001:3C19 D-Link Corp. DWA-125 Wireless N 150 Adapter(rev.A3) [Ralink RT5370]
+2001:3C1A D-Link Corp. DWA-160 802.11abgn Xtreme N Dual Band Adapter(rev.B2) [Ralink RT5572]
+2001:3C1B D-Link Corp. DWA-127 Wireless N 150 High-Gain Adapter(rev.A1) [Ralink RT3070]
+2001:3C1C D-Link Corp. (Device name unknown)
+2001:3C1D D-Link Corp. (Device name unknown)
+2001:3C1E D-Link Corp. (Device name unknown)
+2001:3C1F D-Link Corp. (Device name unknown)
+2001:3C20 D-Link Corp. (Device name unknown)
+2001:3C21 D-Link Corp. (Device name unknown)
+2001:3C22 D-Link Corp. (Device name unknown)
+2001:3C23 D-Link Corp. (Device name unknown)
+2019:5201 PLANEX (Device name unknown)
+2019:AB25 PLANEX GW-USMini2N 802.11n Wireless Adapter [Ralink RT2870]
+2019:ED06 PLANEX GW-US300MiniW 802.11bgn Wireless Adapter
+2019:ED19 PLANEX (Device name unknown)
+20F4:724A TRENDnet (Device name unknown)
+5A57:0280 Zinwell 802.11a/b/g/n USB Wireless LAN Card
+5A57:0282 Zinwell 802.11b/g/n USB Wireless LAN Card
+5A57:0283 Zinwell 802.11b/g/n USB Wireless LAN Card
+5A57:0284 Zinwell 802.11a/b/g/n USB Wireless LAN Card
+5A57:5257 Zinwell Metronic 495257 wifi 802.11ng
+7392:4085 Edimax Technology Co., Ltd (Device name unknown)
+7392:7711 Edimax Technology Co., Ltd EW-7711UTn nLite Wireless Adapter [Ralink RT2870]
+7392:7717 Edimax Technology Co., Ltd EW-7717UN 802.11n Wireless Adapter [Ralink RT2870]
+7392:7718 Edimax Technology Co., Ltd EW-7718UN 802.11n Wireless Adapter [Ralink RT2870]
+7392:7722 Edimax Technology Co., Ltd EW-7722UTn 802.11n Wireless Adapter [Ralink RT307x]
+7392:7733 Edimax Technology Co., Ltd (Device name unknown)
+# taken from https://devicehunt.com/view/type/usb/vendor/2357
+2357:0005 TP-Link - M7350 4G Mi-Fi Router
+2357:0100 TP-Link - TL-WN8200ND [Realtek RTL8192CU]
+2357:0101 TP-Link - RTL8812AU Archer T4U 802.11ac
+2357:0103 TP-Link - Archer T4UH wireless Realtek 8812AU
+2357:0105 TP-Link - Archer T1U 802.11a/n/ac Wireless Adapter [MediaTek MT7610U]
+2357:0106 TP-Link - Archer T9UH v1 [Realtek RTL8814AU]
+2357:0107 TP-Link - TL-WN821N v5/v6 [RTL8192EU]
+2357:0108 TP-Link - TL-WN822N Version 4 RTL8192EU
+2357:0109 TP-Link - TL-WN823N v2/v3 [Realtek RTL8192EU]
+2357:010b TP-Link - Archer T2UHP [MediaTek MT7610U]
+2357:010c TP-Link - TL-WN722N v2/v3 [Realtek RTL8188EUS]
+2357:010d TP-Link - Archer T4U v2 [Realtek RTL8812AU]
+2357:010e TP-Link - Archer T4UH v2 [Realtek RTL8812AU]
+2357:010f TP-Link - Archer T4UHP [Realtek RTL8812AU]
+2357:0115 TP-Link - Archer T4U ver.3
+2357:011e TP-Link - AC600 wireless Realtek RTL8811AU [Archer T2U Nano]
+2357:0120 TP-Link - Archer T2U PLUS [RTL8821AU]
+2357:012d TP-Link - Archer T3U [Realtek RTL8812BU]
+2357:0200 TP-Link - MA 180 Zero CD
+2357:0201 TP-Link - HSUPA Modem MA180
+2357:0600 TP-Link - UE300 10/100/1000 LAN (mass storage CD-ROM mode) [Realtek RTL8153]
+2357:0601 TP-Link - UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]
+# from https://devicehunt.com/view/type/usb/vendor/0789
+0789:0162 Logitec Corp. - LAN-WN22/U2 Wireless LAN Adapter
+0789:0163 Logitec Corp. - LAN-WN12/U2 Wireless LAN Adapter
+0789:0164 Logitec Corp. - LAN-W150/U2M Wireless LAN Adapter
+0789:0166 Logitec Corp. - LAN-W300N/U2 Wireless LAN Adapter
+0789:0168 Logitec Corp. - LAN-W150N/U2 Wireless LAN Adapter
+0789:0170 Logitec Corp. - LAN-W300AN/U2 Wireless LAN Adapter
+# from https://devicehunt.com/search/type/usb/vendor/057C/device/any
+057C:4201 AVM GmbH - FRITZ!Box Fon WLAN (Annex A)
+057C:5601 AVM GmbH - AVM Fritz!WLAN [Texas Instruments TNETW1450]
+057C:6201 AVM GmbH - AVM Fritz!WLAN v1.1 [Texas Instruments TNETW1450]
+057C:62ff AVM GmbH - AVM Fritz!WLAN USB (in CD-ROM-mode)
+057C:8401 AVM GmbH - Fritz!WLAN N [Atheros AR9001U]
+057C:8402 AVM GmbH - Fritz!WLAN N 2.4 [Atheros AR9001U]
+057C:8403 AVM GmbH - Fritz!WLAN N v2 [Atheros AR9271]
+057C:84ff AVM GmbH - AVM Fritz!WLAN USB N (in CD-ROM-mode)
+057C:8501 AVM GmbH - FRITZ WLAN N v2 [RT5572/rt2870.bin]
+# own work
+2357:0138 TP-Link - Archer T3U PLUS (AC1300)
+# from Linux Kernel
+2357:0111 TP-Link - TL-WN727N v5.12
