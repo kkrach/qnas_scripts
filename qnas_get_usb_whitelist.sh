@@ -126,6 +126,7 @@ cat $QSORTED | grep -vi "unknown" >> $OUTFILE
 echo "" >> $OUTFILE
 echo "# Unresolved USB-IDs:" >> $OUTFILE
 cat $QSORTED | grep  -i "unknown" >> $OUTFILE
+unix2dos $OUTFILE
 
 echo
 echo "Written output to $OUTFILE"
